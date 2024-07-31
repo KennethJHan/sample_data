@@ -1,0 +1,11 @@
+TOOL:
+  SAMTOOLS: /data/tools/samtools-1.15/bin/samtools
+  BEDTOOLS: /data/tools/bedtools/bin/bedtools
+  GATK: /data/tools/gatk-4.4.0.0/gatk
+  PICARD: /data/tools/picard/picard.jar
+  FASTQC: /data/tools/fastqc
+  BWA: /data/tools/bwa/bwa
+DATA:
+  REFERENCE:
+    GRCH37: /data/reference/GRCh37/GRCh37.fa
+    GRCH38: /data/reference/GRCh38/GRCh38.fa
