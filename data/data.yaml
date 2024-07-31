@@ -1,0 +1,7 @@
+sample:
+  name: M1010
+  dob: 2020-01-01
+genes:
+  - APOE
+  - BRAF
+  - TERT
